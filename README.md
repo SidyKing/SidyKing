@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/sidy_king_" target="blank"><img src="https://img.shields.io/twitter/follow/sidy_king_?logo=twitter&style=for-the-badge" alt="sidy_king_" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and Python**
+- 🌱 I’m currently learning **Flutter and IA**
 
-- 💬 Ask me about **angular and data science**
+- 💬 Ask me about **Angular and NodeJS**
 
 - 📫 How to reach me **papasidymactar.traore@uadb.edu.sn**
 
