@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidy TRAORE</h1>
-<h3 align="center">A passionate FullStack developer from Senegal</h3>
+<h3 align="center">A FullStack developer from Senegal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidyking&label=Profile%20views&color=0e75b6&style=flat" alt="sidyking" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Edge Computing & IA**
 
-- 🌱 I’m currently learning **MultiCloud, CI/CD, …**
+- 🌱 I’m currently learning **MultiCloud, DevOps, CI/CD, …**
 
 - 💬 Ask me about **Angular, NodeJs, SpringBoot, Docker, …**
 
