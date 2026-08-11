@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sidy TRAORE</h1>
+<h1 align="center">Hi 👋, I'm Sidy</h1>
 
 <p align="center">
   <b>Data &amp; BI Consultant · Full-Stack Developer · AI Engineer</b><br>
